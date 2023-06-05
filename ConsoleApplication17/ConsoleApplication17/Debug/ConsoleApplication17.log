@@ -1,0 +1,5 @@
+﻿  Projekt4.cpp
+C:\Users\pawci\source\repos\ConsoleApplication17\ConsoleApplication17\Projekt4.cpp(88,24): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\pawci\source\repos\ConsoleApplication17\ConsoleApplication17\Projekt4.cpp(88,20): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\pawci\source\repos\ConsoleApplication17\ConsoleApplication17\Projekt4.cpp(93,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  ConsoleApplication17.vcxproj -> C:\Users\pawci\source\repos\ConsoleApplication17\Debug\ConsoleApplication17.exe
